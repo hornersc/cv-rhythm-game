@@ -1,9 +1,11 @@
 # cv-rhythm-game
 A rhythm game that utilizes computer vision hand recognition.
-![screenshot](handdancescreenshot.png)
+
+![screenshot](handdancegif.gif)
+
 This is an in-progress prototype of a rhythm game where the player must match their hands to the hands on screen. They can also create their own custom levels.
 
-A Windows installer can be found on my [itch page](https://pseudosodasi.itch.io/hand-dance).
+A Windows installer can be found on my [itch.io page](https://pseudosodasi.itch.io/hand-dance).
 
 I used Pygame to incorporate game elements and MediaPipe and OpenCV to track hand movements.
 # Requirements
